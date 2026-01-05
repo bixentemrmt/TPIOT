@@ -1,3 +1,4 @@
+package com.example;
 public class Sucre {
     
     private String nom;

@@ -1,3 +1,4 @@
+package com.example;
 public class Cardiaque {
     
     private double frequenceCardiaque;
